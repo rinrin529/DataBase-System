@@ -1,7 +1,7 @@
 <br/><h1 align="center">학생 관리 시스템</h1>
 MySQL과 spring 프레임워크를 사용하여 구축한 학생 관리 시스템이다.<br/>
 학생 정보 관리 시스템의 주요 기능으로는 회원가입, 로그인, 공지사항 확인, 수강신청 등이 있다.<br/>
-사용 기술 : JSP(with Java)<br/>
+Mybatis, JSP(with Java) 사용<br/>
 프로젝트 시연 영상 링크: [학생관리시스템-YouTube](https://www.youtube.com/watch?v=h9YNuLTT2PE&t=3s)<br/><br/><br/>
 
 ## 주요 기능 페이지
