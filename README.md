@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frinrin529%2FDataBase-System%2Fhit-counter&count_bg=%238CBFE7&title_bg=%23989696&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/><h1 align="center">학생 관리 시스템</h1>
 MySQL과 spring 프레임워크를 사용하여 구축한 학생 관리 시스템이다.<br/>
 학생 정보 관리 시스템의 주요 기능으로는 회원가입, 로그인, 공지사항 확인, 수강신청 등이 있다.<br/>
