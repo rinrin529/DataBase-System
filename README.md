@@ -1,11 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frinrin529%2FDataBase-System%2Fhit-counter&count_bg=%238CBFE7&title_bg=%23989696&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br/><h1 align="center">학생 관리 시스템</h1>
-MySQL과 spring 프레임워크를 사용하여 구축한 학생 관리 시스템이다.<br/>
-학생 정보 관리 시스템의 주요 기능으로는 회원가입, 로그인, 공지사항 확인, 수강신청 등이 있다.<br/>
-Mybatis, JSP(with Java) 사용<br/>
-프로젝트 시연 영상 링크: [학생관리시스템-YouTube](https://www.youtube.com/watch?v=h9YNuLTT2PE&t=3s)<br/><br/><br/>
-
-## 주요 기능 페이지
 # 🔹 학생관리 시스템 개발
 
 ---
@@ -13,6 +5,10 @@ Mybatis, JSP(with Java) 사용<br/>
 `Java` `Mybatis` `Angular` `JSP` `Spring` `Bootstrap` 
 
 학생 정보 관리 시스템의 주요 기능으로는 회원가입, 로그인, 공지사항 확인, 수강신청 등이 있다
+
+
+## 주요 기능 페이지
+
 
 ### 로그인 및 회원가입
 ![image](https://user-images.githubusercontent.com/45943080/103730623-9db81b80-5026-11eb-9cd4-9c43a11db279.png)<br/>
